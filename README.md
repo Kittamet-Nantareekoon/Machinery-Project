@@ -55,7 +55,7 @@ When completed, the simulation will be:
 
 ![](azimuth.gif)
 
-![](Altitude _M.gif)
+![](Altitude_M.gif)
 
 ![](Azimuth_M.gif)
 
