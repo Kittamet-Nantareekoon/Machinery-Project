@@ -43,9 +43,9 @@ This is a simulation of the movement of a Solar Panel Pan-Tilt system (a system 
 When completed, the simulation will be:
 
 
-!\[](image0.png)
+![](image0.png)
 
-!\[](image.png)
+![](image.png)
 
 ![](image.png)
 
@@ -55,9 +55,9 @@ When completed, the simulation will be:
 
 ![](azimuth.gif)
 
-!\[](Altitude\_M.gif)
+![](Altitude_M.gif)
 
-!\[](Azimuth\_M.gif)
+![](Azimuth_M.gif)
 
-!\[](Sum\_M.gif)
+![](Sum_M.gif)
 
