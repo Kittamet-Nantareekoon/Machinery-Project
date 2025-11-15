@@ -47,7 +47,7 @@ When completed, the simulation will be:
 
 ![](image.png)
 
-![](image.png)
+
 
 ![](image2.png)
 
