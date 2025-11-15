@@ -1,4 +1,4 @@
-\# Mechanism Simulation using (Matlab) Symbolic Math Toolbox.
+# Mechanism Simulation using (Matlab) Symbolic Math Toolbox.
 
 
 
@@ -6,7 +6,7 @@ This is a simulation of the movement of a Solar Panel Pan-Tilt system (a system 
 
 
 
-1\. Altitude Control (Tilt) System Design
+1. Altitude Control (Tilt) System Design
 
 
 
@@ -22,7 +22,7 @@ This is a simulation of the movement of a Solar Panel Pan-Tilt system (a system 
 
 
 
-2\. Azimuth Control (Pan) System Design
+2. Azimuth Control (Pan) System Design
 
 
 
@@ -42,15 +42,18 @@ This is a simulation of the movement of a Solar Panel Pan-Tilt system (a system 
 
 When completed, the simulation will be:
 
+
 !\[](image0.png)
 
 !\[](image.png)
 
-!\[](image2.png)
+![](image.png)
 
-!\[](altitude.gif)
+![](image2.png)
 
-!\[](azimuth.gif)
+![](altitude.gif)
+
+![](azimuth.gif)
 
 !\[](Altitude\_M.gif)
 
